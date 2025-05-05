@@ -1,0 +1,17 @@
+A lo largo de las dos entregas anteriores, se planteo el proyecto con base en las
+deficiencias que conlleva tener la administraci´on de forma f´ısica dentro de Instituciones
+de salud.
+Por consiguiente se utilizaron datos reales de una instituci´on m´edica, con el objetivo
+de implementar un sistema que automatice todos los procesos internos que se llevan a
+cabo en la organizaci´on, logrando as´ı el primer avance del proyecto el cual const´o del
+planteamiento y dise˜no de las tablas que conforman la base de datos, las cuales son correspondientes
+a las diferentes ´areas del hospital.
+Posteriormente, se trabaj´o con el desarrollo de un servidor que permite a los usuarios
+dentro de la red LAN del hospital en conjunto con la p´agina desarrollada visualizar
+y modificar la informaci´on desde distintos dispositivos.
+Durante este cuatrimestre se realiz´o la implementaci´on del sector contable, para poder
+completar la parte administrativa ofreciendo as´ı un sistema m´as completo y eficiente.
+Ademas se debe tener en cuanta que la parte mas vulnerable de cualquier sistema implementado
+es la seguridad, por ello actualizar constantemente con el fin de mejorar la
+seguridad da como resultado un mejor control en los accesos y modificaciones dentro de
+la base de datos.
