@@ -6,7 +6,7 @@ Este repositorio contiene la documentación del proyecto integrador titulado: De
 
 - [Resumen](Resumen)
 - [FODA](Análisis_FODA_8vo.pdf)
-- [Artículo](#)
+- [Artículo](Artículo_8vo.pdf)
 - [Presentación](#)
 - [Documento](#)
 
