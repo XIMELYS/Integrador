@@ -4,7 +4,7 @@ Este repositorio contiene la documentación del proyecto integrador titulado: De
 
 ## Documentación del Proyecto
 
-- [Resumen](#)
+- [Resumen](Resumen)
 - [FODA](#)
 - [Artículo](#)
 - [Presentación](#)
