@@ -8,3 +8,7 @@ El  repositorio que se observa a continuación es la documentación del proyecto
 >[Artículo](Artículo_8vo.pdf)
 >[Presentación](Presentacion_Integrador_8vo.pdf)
 >[Documento](Proyecto_Integrador_8vo.pdf)
+
+>[!TIP]
+>
+>This is a standard TIP.
