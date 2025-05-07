@@ -4,11 +4,9 @@ El  repositorio que se observa a continuación es la documentación del proyecto
 >[!Indice]
 >
 >[Resumen](Resumen)
->[FODA](Análisis_FODA_8vo.pdf)
->[Artículo](Artículo_8vo.pdf)
->[Presentación](Presentacion_Integrador_8vo.pdf)
->[Documento](Proyecto_Integrador_8vo.pdf)
 
->[!TIP]
->
->This is a standard TIP.
+[FODA](Análisis_FODA_8vo.pdf)
+[Artículo](Artículo_8vo.pdf)
+[Presentación](Presentacion_Integrador_8vo.pdf)
+[Documento](Proyecto_Integrador_8vo.pdf)
+
