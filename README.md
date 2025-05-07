@@ -9,3 +9,4 @@ El  repositorio que se observa a continuación es la documentación del proyecto
 >[!NOTE]
 >
 >This is a standard NOTE block.
+>[Resumen](Resumen)
